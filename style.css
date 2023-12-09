@@ -1,0 +1,76 @@
+/* h2 {
+    color:blue;
+
+}
+div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 10px;
+}
+
+.greenBlock {
+    background-color: pink;
+}
+
+#newBlock {
+    background-color: fuchsia;
+} */
+
+/* div {
+    margin: 10px;
+    border: 1px solid #a35a5a;
+}
+
+#header {
+    height: 80px;
+    background-color: #ccc;
+}
+
+
+#content {
+    height: 180px;
+    background-color: #f88383;
+}
+
+#footer {
+    height: 100px;
+    background-color: antiquewhite;
+} */
+
+
+
+
+/* a:link {
+    color: rgb(49, 100, 59);
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(159, 159, 103);
+    text-decoration: none;
+}
+
+
+a:hover {
+    color: fuchsia;
+    text-decoration: underline;
+}
+
+a:active {
+    color:brown;
+    text-decoration: underline;
+}
+
+input:hover {
+    border: 2px solid blueviolet;
+} */
+
+
+body {
+    color:rgb(124, 65, 65)
+}
+
+p {
+    color: brown;
+}
