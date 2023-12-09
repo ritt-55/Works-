@@ -1,8 +1,56 @@
+
+
+
+
+@font-face {
+    font-family: 'EB Garamond 08';
+    src: url(fonts/EBGaramond08);
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+body {
+    font-family: 'EB Garamond 08';
+    font-size: 60px;
+    /* font-family:'Courier New', Courier, monospace;
+    font-weight: 900;
+    font-style: normal; */
+    color: #de8080
+}
+
+p {
+    text-transform: capitalize;
+    text-transform: uppercase;
+    text-transform: lowercase;
+    text-transform: none;
+
+    text-decoration: underline;
+    text-decoration: underline line-through;
+    text-decoration:overline;
+    text-decoration:line-through;
+    text-decoration:none;
+    text-shadow: 5px 4px 3px #999;
+
+    text-align: left;
+    text-align: right;
+    text-align:center;
+    text-align: none;
+
+    text-indent: 40px;
+}
+
+
 div {
-    background-color: #de8080;
+    /* background-color: #de8080;
     background-color: #9be07eee;
     background-color: aquamarine;
-    background-color: rgb(237, 193, 127);
-
-
+    background-color: rgb(237, 193, 127); */
+    width: 100px;
+    height: 100px;
+    background-color: #de8080;
+    opacity: .4;
 }
+
+
